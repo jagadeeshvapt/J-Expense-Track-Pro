@@ -1,4 +1,4 @@
-# FinTrack Pro - Premium Multi-Scope Expense Tracker
+# J Expense Track Pro - Premium Multi-Scope Expense Tracker
 
 FinTrack Pro is a state-of-the-art, responsive, single-page application (SPA) designed to help you organize and track your financial transactions. It features three distinct databases: **Office Expenses**, **Home Expenses**, and **Personal Expenses**.
 
